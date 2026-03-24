@@ -23,7 +23,10 @@ function Sidebar({ activePage, onNavigate }) {
           <span className="nav-icon">&#9962;</span>
           Properties
         </button>
-        <button className="nav-item disabled">
+        <button
+          className={`nav-item ${activePage === 'pipeline' ? 'active' : ''}`}
+          onClick={() => onNavigate('pipeline')}
+        >
           <span className="nav-icon">&#9783;</span>
           Pipeline
         </button>

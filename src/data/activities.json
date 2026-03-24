@@ -1,0 +1,9 @@
+[
+  { "id": 1, "contactId": 1, "type": "stage_change", "from": null, "to": "new", "note": "Lead created", "timestamp": "2025-03-20T10:00:00Z" },
+  { "id": 2, "contactId": 2, "type": "stage_change", "from": "qualified", "to": "negotiation", "note": "Moved to negotiation after site visit", "timestamp": "2025-03-18T14:30:00Z" },
+  { "id": 3, "contactId": 3, "type": "stage_change", "from": "qualified", "to": "site_visit", "note": "Scheduled site visit for Pacific Heights property", "timestamp": "2025-03-19T09:15:00Z" },
+  { "id": 4, "contactId": 4, "type": "stage_change", "from": "negotiation", "to": "won", "note": "Deal closed successfully", "timestamp": "2025-03-17T16:00:00Z" },
+  { "id": 5, "contactId": 5, "type": "stage_change", "from": "new", "to": "qualified", "note": "Qualified after initial screening", "timestamp": "2025-03-21T11:00:00Z" },
+  { "id": 6, "contactId": 1, "type": "note", "from": null, "to": null, "note": "Called Sarah — interested in downtown condos near the river", "timestamp": "2025-03-21T13:45:00Z" },
+  { "id": 7, "contactId": 3, "type": "call", "from": null, "to": null, "note": "Confirmed site visit for Saturday 10 AM", "timestamp": "2025-03-22T10:00:00Z" }
+]
