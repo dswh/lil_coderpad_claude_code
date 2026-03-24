@@ -1,0 +1,122 @@
+[
+  {
+    "id": 101,
+    "title": "3BHK Apartment in Koramangala",
+    "locality": "Koramangala",
+    "city": "Bangalore",
+    "bhk": 3,
+    "price": 8500000,
+    "area": 1450,
+    "type": "apartment",
+    "status": "available",
+    "description": "Spacious 3BHK with balcony, covered parking, and clubhouse access"
+  },
+  {
+    "id": 102,
+    "title": "2BHK Flat in Indiranagar",
+    "locality": "Indiranagar",
+    "city": "Bangalore",
+    "bhk": 2,
+    "price": 6200000,
+    "area": 1100,
+    "type": "apartment",
+    "status": "available",
+    "description": "Modern 2BHK near metro station with gym and swimming pool"
+  },
+  {
+    "id": 103,
+    "title": "4BHK Villa in Whitefield",
+    "locality": "Whitefield",
+    "city": "Bangalore",
+    "bhk": 4,
+    "price": 18500000,
+    "area": 2800,
+    "type": "villa",
+    "status": "available",
+    "description": "Independent villa with garden, 3 parking spots, gated community"
+  },
+  {
+    "id": 104,
+    "title": "1BHK Studio in HSR Layout",
+    "locality": "HSR Layout",
+    "city": "Bangalore",
+    "bhk": 1,
+    "price": 3500000,
+    "area": 650,
+    "type": "apartment",
+    "status": "sold",
+    "description": "Compact studio apartment ideal for young professionals"
+  },
+  {
+    "id": 105,
+    "title": "3BHK Penthouse in Koramangala",
+    "locality": "Koramangala",
+    "city": "Bangalore",
+    "bhk": 3,
+    "price": 15000000,
+    "area": 2100,
+    "type": "apartment",
+    "status": "available",
+    "description": "Top-floor penthouse with terrace garden and panoramic views"
+  },
+  {
+    "id": 106,
+    "title": "2BHK in Jayanagar",
+    "locality": "Jayanagar",
+    "city": "Bangalore",
+    "bhk": 2,
+    "price": 5800000,
+    "area": 1050,
+    "type": "apartment",
+    "status": "reserved",
+    "description": "Well-connected 2BHK in established residential area"
+  },
+  {
+    "id": 107,
+    "title": "Residential Plot in Whitefield",
+    "locality": "Whitefield",
+    "city": "Bangalore",
+    "bhk": 0,
+    "price": 12000000,
+    "area": 2400,
+    "type": "plot",
+    "status": "available",
+    "description": "BMRDA-approved plot in upcoming tech corridor"
+  },
+  {
+    "id": 108,
+    "title": "3BHK in Indiranagar",
+    "locality": "Indiranagar",
+    "city": "Bangalore",
+    "bhk": 3,
+    "price": 11000000,
+    "area": 1600,
+    "type": "apartment",
+    "status": "available",
+    "description": "Premium 3BHK with modular kitchen, close to 100 Feet Road"
+  },
+  {
+    "id": 109,
+    "title": "2BHK Villa in Electronic City",
+    "locality": "Electronic City",
+    "city": "Bangalore",
+    "bhk": 2,
+    "price": 4500000,
+    "area": 1200,
+    "type": "villa",
+    "status": "available",
+    "description": "Row villa with private garden in gated township"
+  },
+  {
+    "id": 110,
+    "title": "4BHK Apartment in Koramangala",
+    "locality": "Koramangala",
+    "city": "Bangalore",
+    "bhk": 4,
+    "price": 22000000,
+    "area": 2600,
+    "type": "apartment",
+    "status": "sold",
+    "description": "Luxury 4BHK with servant quarters and home automation"
+  }
+]
