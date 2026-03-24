@@ -4,11 +4,11 @@
     "name": "Sarah Mitchell",
     "email": "sarah.mitchell@email.com",
     "phone": "(512) 555-0134",
-    "property": "3BHK in Koramangala",
+    "property": "3BD/2BA in Austin, TX",
     "leadType": "buyer",
     "pipelineStage": "new",
-    "budget": 10000000,
-    "preferredLocality": "Koramangala",
+    "budget": 650000,
+    "preferredLocality": "Downtown Austin",
     "preferredBhk": 3
   },
   {
@@ -16,7 +16,7 @@
     "name": "James Rodriguez",
     "email": "james.rodriguez@email.com",
     "phone": "(305) 555-0278",
-    "property": "2BHK Condo in Indiranagar",
+    "property": "2BD Condo in Miami, FL",
     "leadType": "investor",
     "pipelineStage": "negotiation"
   },
@@ -25,11 +25,11 @@
     "name": "Emily Chen",
     "email": "emily.chen@email.com",
     "phone": "(415) 555-0192",
-    "property": "4BHK Villa in Whitefield",
+    "property": "4BD Victorian in San Francisco, CA",
     "leadType": "buyer",
     "pipelineStage": "site_visit",
-    "budget": 20000000,
-    "preferredLocality": "Whitefield",
+    "budget": 1800000,
+    "preferredLocality": "Pacific Heights",
     "preferredBhk": 4
   },
   {
@@ -37,7 +37,7 @@
     "name": "Michael Thompson",
     "email": "michael.thompson@email.com",
     "phone": "(720) 555-0341",
-    "property": "1BHK Loft in HSR Layout",
+    "property": "1BD Loft in Denver, CO",
     "leadType": "seller",
     "pipelineStage": "won"
   },
@@ -46,7 +46,7 @@
     "name": "Jessica Patel",
     "email": "jessica.patel@email.com",
     "phone": "(212) 555-0467",
-    "property": "3BHK in Indiranagar",
+    "property": "3BD Brownstone in Brooklyn, NY",
     "leadType": "rental",
     "pipelineStage": "qualified"
   }

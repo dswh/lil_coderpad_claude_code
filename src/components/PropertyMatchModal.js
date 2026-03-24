@@ -1,7 +1,7 @@
 import './PropertyMatchModal.css';
 
 const formatPrice = (price) =>
-  new Intl.NumberFormat('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 }).format(price);
+  new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(price);
 
 function getMatches(buyer, properties) {
   if (!buyer) return [];
