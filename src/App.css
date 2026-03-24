@@ -1,10 +1,18 @@
-.App {
+.app-shell {
+  display: flex;
   min-height: 100vh;
-  background-color: #fff;
 }
 
-.main {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 1.5rem;
+.main-area {
+  flex: 1;
+  margin-left: var(--sidebar-w);
+  padding: 1.5rem 2rem;
+  max-width: 1100px;
+}
+
+@media (max-width: 768px) {
+  .main-area {
+    margin-left: 0;
+    padding: 1rem;
+  }
 }
