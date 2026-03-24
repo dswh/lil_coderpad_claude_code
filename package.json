@@ -24,6 +24,9 @@
       "react-app/jest"
     ]
   },
+  "overrides": {
+    "react-refresh": "0.14.2"
+  },
   "browserslist": {
     "production": [
       ">0.2%",

@@ -1,7 +1,10 @@
 .App {
-  text-align: center;
   min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  background-color: #fff;
+}
+
+.main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
 }
